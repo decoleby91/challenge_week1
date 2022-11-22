@@ -1,30 +1,32 @@
-/**/
+/*This code controls the box-sizing/ border-box.*/
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
-/**/
+/*This code sets the background color of the body*/
 body {
     background-color: #d9dcd6;
 }
-/**/
+/*This code sets the padding of the head section,
+the font-family for the */
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
 }
-/**/
+/*This sets th h1 text font-size*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
-/**/
+/*This sets the h1 color*/
 .header h1 .seo {
     color: #d9dcd6;
 }
-/**/
+/*This is the header's div tag and sets the padding, margin,
+font-family and font-size*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -41,16 +43,17 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-/**/
+/*This sets the color*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
-/**/
+/*This sets the font-size of the paragraph*/
 p {
     font-size: 16px;
 }
-/**/
+/*This contains quite alot of detail and mainly focuses on the 
+background but also includes heigh, width, and margin*/
 .hero {
     height: 800px;
     width: 100%;
