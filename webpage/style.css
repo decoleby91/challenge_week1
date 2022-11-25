@@ -60,7 +60,7 @@ p {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
-    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-image: url("../assests/images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -125,21 +125,22 @@ p {
 .benefit-lead img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    max-width: 200px;
 }
 /**/
 .benefit-brand img {
     display: block;
     margin: 10px auto;
-    max-width: 150px;
+    max-width: 100px;
 }
 /**/
 .benefit-cost img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
+    height; 200px;
 }
-/**/
+/*This is the CSS for the search engine optimization section*/
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
@@ -190,9 +191,14 @@ p {
 }
 /**/
 .social-media-marketing h2 {
-    margin-bottom: 20px;
+    margin-bottom: 10px;
     font-size: 36px;
 }
+
+section {
+    display: block;
+  }
+
 /**/
 .footer {
     padding: 30px;
