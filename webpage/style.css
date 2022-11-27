@@ -61,7 +61,7 @@ p {
     font-size: 16px;
 }
 
-/*This sets the size and scale of the background image*/
+/*This sets the size and scale of the background image, the positioning and margin */
 .hero {
     height: 800px;
     width: 100%;
@@ -102,20 +102,20 @@ p {
     background-color: #2589bd;
 }
 
-/**/
+/*This CSS code sets the thickness of the margin and the color*/
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
 
 }
 
-/**/
+/*This CSS code sets the thickness of the margin and the color*/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff
 }
 
-/**/
+/*This CSS code sets the thickness of the margin and the color*/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
@@ -123,14 +123,14 @@ p {
 
 }
 
-/**/
+/*This CSS code sets the thickness of the margin and how the text will align on the page*/
 .benefit-lead h1 {
     margin-bottom: 10px;
     text-align: center;
 
 
 }
-    /**/
+    /*This CSS code sets the thickness of the margin and how the text will align on the page*/
     .benefit-brand h2 {
         margin-bottom: 10px;
         text-align: center;
@@ -138,7 +138,7 @@ p {
 
     }
 
-    /*This CSS code sets the thickness of the margin  */
+    /*This CSS code sets the thickness of the margin and how the text will align on the page */
     .benefit-cost h3 {
         margin-bottom: 10px;
         text-align: center;
