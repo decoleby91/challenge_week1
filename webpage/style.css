@@ -1,16 +1,16 @@
-/**/
+/*This sets the behaviour of the box-sizing, padding, and margin */
 * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
 }
 
-/**/
+/*This sets the background color to green*/
 body {
     background-color: #d9dcd6;
 }
 
-/**/
+/*This sets the padding, font-family, background-color, and color of the header section*/
 .header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -18,19 +18,20 @@ body {
     color: #ffffff;
 }
 
-/**/
+/*This sets the display and font-size of the H1 heading*/
 .header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
 
-/**/
+/*This sets the color of the h1 heading*/
 .header h1 .seo {
     color: #d9dcd6;
 }
 
-/**/
+/*This sets the padding and margin of the header div, the alignment, and the font-family/font-size of the header 
+element*/
 .header div {
     padding-top: 15px;
     margin-right: 20px;
@@ -39,24 +40,24 @@ body {
     font-size: 20px;
 }
 
-/**/
+/*This sets the unordered list items marker to none*/
 .header div ul {
     list-style-type: none;
 }
 
-/**/
+/*This sets the display and margin placement for the ul li element in the header section*/
 .header div ul li {
     display: inline-block;
     margin-left: 25px;
 }
 
-/**/
+/*This sets the color to white for the text and gives no text-decoration */
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/**/
+/*This sets the paragraph size*/
 p {
     font-size: 16px;
 }
@@ -71,19 +72,19 @@ p {
     background-position: center;
 }
 
-/*This sets */
+/*This specifies how the box will be floated and the thickness of the margin */
 .float-left {
     float: left;
     margin-right: 25px;
 }
 
-/**/
+/*This specifies how the box will be floated and the thickness of the margin*/
 .float-right {
     float: right;
     margin-left: 25px;
 }
 
-/**/
+/*This sets the width,display, and thickness*/
 .content {
     width: 75%;
     display: inline-block;
