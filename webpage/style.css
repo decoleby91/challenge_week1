@@ -22,9 +22,6 @@ body {
     font-size: 48px;
 }
 
-article {
-    display: block;
-  }
 
 /**/
 .header h1 .seo {
@@ -57,7 +54,7 @@ a {
 p {
     font-size: 16px;
 }
-/**/
+/*This sets the size and scale of the background image*/
 .hero {
     height: 800px;
     width: 100%;
@@ -66,7 +63,7 @@ p {
     background-size: cover;
     background-position: center;
 }
-/**/
+/*This sets */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -82,7 +79,7 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
-/**/
+/*This code sets the settings for the font and color of the main headings/nav bars*/
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -97,33 +94,60 @@ p {
 .benefit-lead {
     margin-bottom: 32px;
     color: #ffffff;
+
+    aside {
+        display: block;
+      }
 }
 /**/
 .benefit-brand {
     margin-bottom: 32px;
     color: #ffffff;
+
+    aside {
+        display: block;
+      }
 }
 /**/
 .benefit-cost {
     margin-bottom: 32px;
     color: #ffffff;
+
+    aside {
+        display: block;
+      }
+
 }
 /**/
 .benefit-lead h1 {
     margin-bottom: 10px;
     text-align: center;
+
+    aside {
+        display: block;
+      }
 }
 
 /**/
 .benefit-brand h2 {
     margin-bottom: 10px;
     text-align: center;
+
+    aside {
+        display: block;
+      }
+
 }
 
 /**/
 .benefit-cost h3 {
     margin-bottom: 10px;
     text-align: center;
+
+    aside {
+        display: block;
+      }
+
 }
 
 /**/
@@ -190,29 +214,17 @@ p {
     font-size: 36px;
 }
 
-article {
-    display: block;
-  }
-
 /**/
 .online-reputation-management h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
 
-article {
-    display: block;
-  }
-
 /**/
 .social-media-marketing h3 {
     margin-bottom: 10px;
     font-size: 36px;
 }
-
-article {
-    display: block;
-  }
 
 /**/
 .footer {
